@@ -1,0 +1,5 @@
+functions-framework==3.8.1
+cloudevents==1.11.0
+google-cloud-storage==2.18.2
+google-cloud-firestore==2.16.1
+Pillow==10.4.0
